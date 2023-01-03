@@ -1,2 +1,2 @@
 # Google_Drive_Clone
-Created with CodeSandbox
+It is a clone of Google Drive created with CodeSandbox
