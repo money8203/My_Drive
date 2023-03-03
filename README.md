@@ -1,4 +1,4 @@
-# MY Drive
+# My Drive
 This project replicates the interface of google drive, made on CodeSandbox using HTML and CSS. The goal of this project was to create an similar representation of the Google Drive interface with adding or updating new features in it.
 
 ## Features
