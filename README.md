@@ -24,7 +24,7 @@ This portfolio website is built using
 - Materialized CSS3
 
  # Note : 
-  This project is designed to be easy to customize and extend. Feel free to play around with the code and create a website thatcan store your data, organize your files and documents! If you have any questions or need help with the setup, please open an issue in this repository."
+  This project is designed to be easy to customize and extend. Feel free to play around with the code and create a website that can store your data, organize your files and documents! If you have any questions or need help with the setup, please open an issue in this repository."
 
 ## License 📄
 
