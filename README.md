@@ -21,7 +21,7 @@ If you want to run this project locally, you can clone this repository and run i
 ## Technologies used 🛠️
 This portfolio website is built using
 - HTML5
-- Materialized CSS3
+- Materialized CSS
 
  # Note : 
   This project is designed to be easy to customize and extend. Feel free to play around with the code and create a website that can store your data, organize your files and documents! If you have any questions or need help with the setup, please open an issue in this repository."
