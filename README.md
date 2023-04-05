@@ -5,7 +5,7 @@ This project replicates the interface of google drive, made on CodeSandbox using
 
 ⚡️Sleek and responsive design                                
 ⚡️ Multiple file view options\
-⚡️ Valid HTML5, CSS3                                                                               
+⚡️ Valid HTML5, Materialized CSS                                                                               
 ⚡️ Well organized documentation
 
 ## Preview
